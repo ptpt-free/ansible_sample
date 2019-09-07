@@ -1,0 +1,2 @@
+# ansible_sample
+Wordpressを作成するサンプルPlaybook
